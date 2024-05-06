@@ -1,7 +1,7 @@
 {
   "name": "matchers",
   "version": "1.0.0",
-  "description": "",
+  "description": "Дан массив с информацией о героях, например:",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
